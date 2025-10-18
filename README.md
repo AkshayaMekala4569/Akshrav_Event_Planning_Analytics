@@ -1,4 +1,4 @@
-# Akshravi_Event_Planning_Analytics
+# Akshrav_Event_Planning_Analytics
 
 
 ## Overview
