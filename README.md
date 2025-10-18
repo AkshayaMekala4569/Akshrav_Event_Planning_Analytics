@@ -48,11 +48,11 @@ Insights from this analysis help event planners make informed decisions, optimiz
 
 ### Insights
 
-- <sub>The data highlights how Food is the undeniable centerpiece of event planning in Telangana, contributing 64.73% of the total income.</sub>
-- <sub>The top events by income include Weddings and Wedding Receptions (₹31M), Local Food Festivals (₹4M), Ganesh Festival (₹4M), Eid Gatherings (₹3M), Diwali Celebrations (₹3M), and Independence Day events.</sub>
-- <sub>The Overall Income of ₹90.7 million, Overall Cost of ₹76.0 million, and an Overall Profit of ₹14.7 million, resulting in a Profit Margin of 16.18%.</sub>
-- <sub>When comparing data from 2023 to 2025, it’s clear that income reaches its highest point between January and April, with April marking the peak month.</sub>
-- <sub>The Event Frequency Across Seasons visual strengthens this observation — Spring emerges as the most active season, confirming it as the heart of Telangana’s marriage and celebration period.</sub>
+- The data highlights how Food is the undeniable centerpiece of event planning in Telangana, contributing 64.73% of the total income.
+- The top events by income include Weddings and Wedding Receptions (₹31M), Local Food Festivals (₹4M), Ganesh Festival (₹4M), Eid Gatherings (₹3M), Diwali Celebrations (₹3M), and Independence Day events.
+- The Overall Income of ₹90.7 million, Overall Cost of ₹76.0 million, and an Overall Profit of ₹14.7 million, resulting in a Profit Margin of 16.18%.
+- When comparing data from 2023 to 2025, it’s clear that income reaches its highest point between January and April, with April marking the peak month.
+- The Event Frequency Across Seasons visual strengthens this observation — Spring emerges as the most active season, confirming it as the heart of Telangana’s marriage and celebration period.
 
 ---
 
